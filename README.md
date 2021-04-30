@@ -32,6 +32,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimjin-012&repo=Musify&theme=vision-friendly-dark" />
 </a>
 
+### Education
+- Coding Dojo
+- University of Washington : Bachelor of Science, Applied Pysics
+
 ### Freelance
 
 
