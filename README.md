@@ -38,7 +38,7 @@
 
 ### Social
 <p align="left">
-	<a href="https://www.linkedin.com/in/alex1100"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"> : https://www.linkedin.com/in/jin-kim-code/</a>
+	<a href="https://www.linkedin.com/in/jin-kim-code/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"> : https://www.linkedin.com/in/jin-kim-code/</a>
 </p>
 
 ## GitHub Status &#x1f4c8;
