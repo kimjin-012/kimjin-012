@@ -36,8 +36,10 @@
 - Coding Dojo
 - University of Washington : Bachelor of Science, Applied Pysics
 
-### Freelance
-
+### Social
+<p align="left">
+	<a href="https://www.linkedin.com/in/alex1100"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"> : https://www.linkedin.com/in/jin-kim-code/</a>
+</p>
 
 ## GitHub Status &#x1f4c8;
 <a href="https://github.com/kimjin-012/kimjin-012">
