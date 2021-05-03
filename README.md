@@ -5,10 +5,10 @@
    <img alt="Node" src="https://img.shields.io/badge/-Node-07C146?style=flat-square&logo=node.js&logoColor=white" />
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-   
+   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
    <img alt="CSharp" src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
-   
+   <img alt="Git" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white" />
    <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=for&logo=jquery&logoColor=white" />
    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for&logo=flask&logoColor=white" />
    
@@ -48,6 +48,7 @@
 <a href="https://github.com/kimjin-012/kimjin-012">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjin-012&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&layout=compact" />
 </a>
+<br/>
 <a href="https://github.com/kimjin-012/kimjin-012">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimjin-012&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true" alt="" />
 </a>
