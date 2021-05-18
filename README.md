@@ -32,14 +32,14 @@
 
 # Experience
 ### Projects
-<a href="https://github.com/kimjin-012/Musify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimjin-012&repo=Musify&theme=vision-friendly-dark" />
-</a>
 <a href="https://github.com/kimjin-012/event-planner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimjin-012&repo=event-planner&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/kimjin-012/share-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimjin-012&repo=share-tracker&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/kimjin-012/Musify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimjin-012&repo=Musify&theme=vision-friendly-dark" />
 </a>
 
 ### Education
