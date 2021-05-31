@@ -1,4 +1,5 @@
 # Skills
+<p>Languages and Tools :</p>
 <p align="center">
    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=gold" />
    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
