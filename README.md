@@ -3,9 +3,8 @@
 <p align="center">
    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=gold" />
    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-   <img alt="Node" src="https://img.shields.io/badge/-Node-07C146?style=flat-square&logo=node.js&logoColor=white" />
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node-dot-js&logoColor=white" />
    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
    <img alt="CSharp" src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
@@ -20,7 +19,7 @@
    <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux&logoColor=white" />
-   <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+   <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket-dot-io&logoColor=white" />
    <img alt="VSCode" src="https://img.shields.io/badge/-Visual Studio Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white" />
    
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -28,7 +27,8 @@
    <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=for&logo=nginx&logoColor=white" />
    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for&logo=sqlite&logoColor=white" />
    <img alt="JSon" src="https://img.shields.io/badge/-JSON-000000?style=for&logo=json&logoColor=white" />
-   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512bd4?style=for&logo=.net&logoColor=white" />
+   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512bd4?style=for&logo=dot-net&logoColor=white" />
+<img alt="Azure" src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for&logo=microsoft-azure&logoColor=white" />
 </p>
 
 # Experience
@@ -49,7 +49,10 @@
 
 ### Social
 <p align="left">
-	<a href="https://www.linkedin.com/in/jin-kim-code/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"> : https://www.linkedin.com/in/jin-kim-code/</a>
+	<a href="https://www.linkedin.com/in/jin-kim-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for&logo=linkedin&logoColor=white" /> : https://www.linkedin.com/in/jin-kim-code/</a>
+</p>
+<p align="left">
+	<a href="https://jinkim.tech"><img alt="Portfoliio" src="https://img.shields.io/badge/-Portfolio-512BD4?style=for&logo=about-dot-me&logoColor=white" /> : https://www.jinkim.tech</a>
 </p>
 
 ## GitHub Status &#x1f4c8;
