@@ -52,7 +52,7 @@
 	<a href="https://www.linkedin.com/in/jin-kim-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for&logo=linkedin&logoColor=white" /> : https://www.linkedin.com/in/jin-kim-code/</a>
 </p>
 <p align="left">
-	<a href="http://jinkim.tech/"><img alt="Portfoliio" src="https://img.shields.io/badge/-Portfolio-512BD4?style=for&logo=about-dot-me&logoColor=white" /> : http://www.jinkim.tech/</a>
+	<a href="http://jinkim.tech/"> : http://www.jinkim.tech/</a>
 </p>
 
 ## GitHub Status &#x1f4c8;
