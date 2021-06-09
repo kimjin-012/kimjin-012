@@ -49,10 +49,13 @@
 
 ### Social
 <p align="left">
-	<a href="https://www.linkedin.com/in/jin-kim-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2" /> : https://www.linkedin.com/in/jin-kim-code/</a>
+	<a href="https://www.linkedin.com/in/jin-kim-code/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2" /> : https://www.linkedin.com/in/jin-kim-code/</a>
 </p>
 <p align="left">
-	<a href="http://jinkim.tech/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-6A0DAD?" /> : http://www.jinkim.tech/</a>
+	<a href="http://jinkim.tech/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-6A0DAD?" /> : http://www.jinkim.tech/</a>
+</p>
+<p align="left">
+	<a href="mailto:na02093@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-e12120" /> : na02093@gmail.com</a>
 </p>
 
 ## GitHub Status &#x1f4c8;
