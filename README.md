@@ -28,6 +28,7 @@
    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for&logo=sqlite&logoColor=white" />
    <img alt="JSon" src="https://img.shields.io/badge/-JSON-000000?style=for&logo=json&logoColor=white" />
    <img alt=".NET" src="https://img.shields.io/badge/-.NET-512bd4?style=for&logo=dot-net&logoColor=white" />
+   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=for&logo=pycharm&logoColor=white" />
 <img alt="Azure" src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for&logo=microsoft-azure&logoColor=white" />
 </p>
 
