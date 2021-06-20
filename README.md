@@ -10,8 +10,7 @@
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
    <img alt="Git" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white" />
    <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=for&logo=jquery&logoColor=white" />
-   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for&logo=flask&logoColor=white" />
-   
+   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for&logo=flask&logoColor=white" />   
    <img alt="AWS" src="http://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=gold" />
    <img alt="Bootstrap" src="http://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
    <img alt="Django" src="http://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django&logoColor=white" />
