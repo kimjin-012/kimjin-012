@@ -20,7 +20,7 @@
    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux&logoColor=white" />
    <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
    <img alt="VSCode" src="https://img.shields.io/badge/-Visual Studio Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white" />
-   
+   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for&logo=css3&logoColor=white" />
    <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=for&logo=nginx&logoColor=white" />
