@@ -49,7 +49,7 @@
 
 ### Education
 - Coding Dojo
-- University of Washington : Bachelor of Science, Applied Pysics
+- University of Washington : Bachelor of Science, Applied Physics
 
 ### Social
 <p align="left">
