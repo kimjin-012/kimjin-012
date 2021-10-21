@@ -55,9 +55,6 @@
 <p align="left">
 	<a href="https://www.linkedin.com/in/jin-kim-code/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2" /> : https://www.linkedin.com/in/jin-kim-code/</a>
 </p>
-<p align="left">
-	<a href="http://jinkim.tech/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-6A0DAD?" /> : http://www.jinkim.tech/</a>
-</p>
 
 ## GitHub Status &#x1f4c8;
 <a href="https://github.com/kimjin-012/kimjin-012">
