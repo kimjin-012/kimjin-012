@@ -40,7 +40,7 @@
 	- Skills : <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=gold" /> <img alt="React.js" src="https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="React Native" src="https://img.shields.io/badge/-React Native-4169e1?style=flat-square&logo=react&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white" /> <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=for&logo=jquery&logoColor=white" /> <img alt="Bootstrap" src="http://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 
 ### Education
-- Coding Dojo
+- Coding Bootcamp : Coding Dojo
 - University of Washington : Bachelor of Science, Applied Physics
 
 ### Algorithm Practice
