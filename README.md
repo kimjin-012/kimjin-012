@@ -62,7 +62,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimjin-012&repo=Musify&theme=vision-friendly-dark" />
 </a>
 
-### Social
+### Connect with me!
 <p align="left">
 	<a href="https://www.linkedin.com/in/jin-kim-code/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2" /> : https://www.linkedin.com/in/jin-kim-code/</a>
 </p>
