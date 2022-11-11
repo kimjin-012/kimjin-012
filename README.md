@@ -48,7 +48,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimjin-012&repo=algorithm-challenge&theme=vision-friendly-dark" />
 </a>
 
-### Personal Projects
+### Projects
 <a href="https://github.com/kimjin-012/responsive-map">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kimjin-012&repo=responsive-map&theme=vision-friendly-dark" />
 </a>
